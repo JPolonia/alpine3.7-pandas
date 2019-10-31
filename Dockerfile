@@ -1,6 +1,6 @@
 FROM python:3.7-alpine
 
-LABEL maintainer="joaovpsilva@hotmail.com"
+LABEL maintainer="jpolonia@evolutio.pt"
 
 RUN apk --update add --no-cache g++
 
